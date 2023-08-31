@@ -32,7 +32,7 @@ Train the LSTM model on the training set, using techniques such as backpropagati
 Flask is a lightweight web framework for Python that allows developers to build web applications quickly and easily. It provides the tools and libraries needed to handle routing, request handling, and response rendering. Flask is known for its simplicity and flexibility, making it a popular choice for small to medium-sized web projects.
 In the context of a sentiment analysis project, Flask can be used to deploy the trained LSTM model as a web application. This allows users to interact with the model through a user-friendly interface, enter movie reviews, and receive sentiment predictions in real time. Flask simplifies the process of handling user requests, processing input data, making predictions using the LSTM model, and rendering the results back to the user.
 
-![Movie Analysis - Google Chrome 16-06-2023 22_12_47](https://github.com/Sameeruddin8/Movie-review-sentiment-analysis/assets/102674044/8fed2d10-2ef5-444a-94d6-46fd6f50dab0)
+![Movie Analysis - Google Chrome 16-06-2023 22_12_47](https://github.com/AbdulHai24/Movie-Review-Sentiment-Analysis/blob/main/templates/Screenshot%202023-08-31%20213230.png)
 
 
 ### Conclusion
